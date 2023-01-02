@@ -1,5 +1,5 @@
 # U-Mind
-This project was created for the course "Augmented Reality &amp; Virtual reality".
+This project was created for the course "Augmented Reality &amp; Virtual Reality".
 
 This is a VR experience for people with social anxiety. The goal is to determine which elements can be triggering for them. 
 
